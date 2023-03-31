@@ -1,0 +1,16 @@
+accelerate==0.12.0
+bert-score==0.3.9
+black==22.6.0
+datasets==2.4.0
+h5py==3.7.0
+matplotlib==3.6.0
+nltk==3.7
+numpy==1.23.1
+packaging==21.3
+sacrebleu==2.2.1
+scipy==1.9.3
+sentencepiece==0.1.97
+spacy==3.3.1
+torch==1.13.1
+tqdm==4.64.1
+transformers==4.22.1
